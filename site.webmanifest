@@ -1,0 +1,39 @@
+{
+  "name": "Krushanvi — Ladies Salon & Makeup Studio",
+  "short_name": "Krushanvi",
+  "description": "Krushanvi is a ladies salon and makeup studio opening in Koppa, Jigani, Bengaluru in December 2026. Threading, facials, waxing, hair cuts, hair spa, manicure, pedicure, party and bridal makeup. See the full price list.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#2C1245",
+  "theme_color": "#2C1245",
+  "lang": "en-IN",
+  "icons": [
+    {
+      "src": "assets/img/favicon-48-36210bba.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/apple-touch-icon-5dca9e6b.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/icon-192-5695e09f.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/icon-512-fd94d41e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/icon-512-fd94d41e.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
